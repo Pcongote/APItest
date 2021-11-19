@@ -1,0 +1,23 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pcongote/APItest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pcongote/APItest/issues"
+  },
+  "homepage": "https://github.com/Pcongote/APItest#readme",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}
